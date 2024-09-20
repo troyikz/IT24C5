@@ -1,5 +1,5 @@
 body{
-    background-image: url("Photos/Tropical-island-with-palm-trees-white-sand-beach-turquoise-water-Nature-Wallpaper-HD-for-PC.jpg");
+    background-image: url("https://w0.peakpx.com/wallpaper/1000/128/HD-wallpaper-demon-slayer-tanjirou-kamado-with-red-eyes-having-sword-with-background-of-white-anime.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -8,7 +8,14 @@ h1{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 100px;
-}.header {
+}
+h2{
+  color: rgb(60, 179, 113), blue;
+  text-align: left;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+}
+.header {
     overflow: hidden;
     background-color: rgba(117, 42, 7, 0.281);
     /*padding: 20px 10px;*/
